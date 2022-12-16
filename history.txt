@@ -1,8 +1,10 @@
 This is my history 
 
-My name is Ana 
+My name is M 
 
 I have 24 years old
 
 And i was born in Mx
+
+I want to learn JS
 
