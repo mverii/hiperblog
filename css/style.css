@@ -4,7 +4,11 @@ body{
 }
 
 p{
-    color: black;
+    color: red;
+}
+
+#error{
+
 }
 #mod{
     color: yellow;
